@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Punithkumar02
-- 👀 I’m interested in coding and programing 
-- 🌱 I’m currently learning in computer science and engineering
-- 💞️ I’m looking to collaborate on other interested students like me 
+- 👋 Hi, I’m Punithkumar
+- 👀 I’m interested in coding and programing and Technology Entusiast
+- 🌱 I'm Computer science engineering undergraduate.
+- 💞️ I’m looking to collaborate on other interested job seekers like me 
 - 📫 How to reach me https://www.linkedin.com/in/punithkumar-r-8a95a41b0
 
 <!---
