@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding and programing and Technology Entusiast
 - 🌱 I'm Computer science engineering undergraduate.
 - 💞️ I’m looking to collaborate on other interested job seekers like me 
-- 📫 How to reach me https://www.linkedin.com/in/punithkumar-r-8a95a41b0
+- 📫 You can reach me on  https://www.linkedin.com/in/punithkumar-r-8a95a41b0
+- 
 
 <!---
 Punithkumar02/Punithkumar02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
